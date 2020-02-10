@@ -1,1 +1,1 @@
-# pytorch_flask_rest_api_tutorial
+# pytorch-flask-rest-api-tutorial
